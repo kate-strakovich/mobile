@@ -1,4 +1,9 @@
 # Тестирование мобильных приложений   
+Этот раздел посвящен тестированию мобильного приложения [Shopping List](https://appdistribution.firebase.google.com/pub/i/ef0e71eeb4f2d6a5),  которое позволяет пользователю создавать список задач для организации и управления повседневными делами.  
+Здесь же представлена практическая работа с Charles Proxy и мобильной версией приложения [demoshopping.ru](https://demoshopping.ru/).  
+
+---
+
 [Чек-лист](https://docs.google.com/spreadsheets/d/1aWRWvweyyUY3_5vpnPeVuT98rrvk958EZKVf7mOM2nQ/edit?usp=sharing) для мобильного приложения shopping-list.  
 [Тест-кейсы](https://github.com/kate-strakovich/mobile/blob/main/Test-cases.pdf) для мобильного приложения shopping-list.  
 [Test Run](https://github.com/kate-strakovich/mobile/blob/main/Test-Run.pdf) для мобильного приложения shopping-list.  
